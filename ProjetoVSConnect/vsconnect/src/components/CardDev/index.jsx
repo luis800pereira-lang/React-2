@@ -29,7 +29,14 @@ return (
             </div>
         </div>
         <div className="techs">
-            {verificarListaTechs}
+            {verificarListaTechs().map((tech, indice) => (
+                <span key={in dice}>
+                    {tech}
+                </span>
+
+            ))}
         </div>
-    </div>
+     </div>
 )
+
+export default CardDev
