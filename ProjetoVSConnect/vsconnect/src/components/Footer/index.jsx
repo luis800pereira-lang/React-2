@@ -1,6 +1,6 @@
 import "./style.css";
 
-import imgDev from "../../assets/imagnes/dev.png";
+import imgDev from "../../assets/images/dev.png";
 
 import { Link } from "react-router-dom";
 

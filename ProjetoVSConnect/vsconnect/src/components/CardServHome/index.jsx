@@ -1,6 +1,6 @@
 import "./style.css"
 
-import imgAlfinete from"../../assets/imagens/alfinete.png";
+import imgAlfinete from"../../assets/images/alfinete.png";
 
 function CardServHome(props) {
     
