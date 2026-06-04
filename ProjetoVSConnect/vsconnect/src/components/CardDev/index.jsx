@@ -1,6 +1,6 @@
 import "./style.css";
 
-import { Links } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function CardDev(props) {
 
@@ -30,7 +30,7 @@ return (
         </div>
         <div className="techs">
             {verificarListaTechs().map((tech, indice) => (
-                <span key={in dice}>
+                <span key={indice}>
                     {tech}
                 </span>
 

@@ -21,7 +21,7 @@ function CardServico(props) {
             <div className="topo_servico">
 
                 <link to={"/servico/" + props.id}>
-                <h2>{props.titulo</h2>
+                <h2>{props.titulo} </h2>
                 
                 </link>
 
