@@ -1,5 +1,61 @@
 {
-    "users": [],
+    "users": [
+      {
+      "email": "odirlei@email.com",
+      "password": "$2a$10$5DTwmNzscGj1QHFbUOkhLewXjHodiZpuy7VauD28pwfLtibFH2tkq",
+      "nome": "Odirlei Assis",
+      "cep": "65092-055",
+      "logradouro": "Rua São José",
+      "numero": "200",
+      "bairro": "Itapera",
+      "uf": "MA",
+      "cidade": "São Luís",
+      "hardSkills": [
+        "CSS",
+        "HTML",
+        "JAVA"
+      ],
+      "user_img": "1692210839596.jpeg",
+      "id": 1
+    },
+    {
+      "email": "alexia@email.com",
+      "password": "$2a$10$UFAOIRjA7pcxjf3Zdo99renopnDER1Arg9DHK5sqW4mhDZ2RidAqK",
+      "nome": "Aléxia Vitória",
+      "cep": "65092-055",
+      "logradouro": "Rua São José",
+      "numero": "200",
+      "bairro": "Itapera",
+      "uf": "MA",
+      "cidade": "São Luís",
+      "hardSkills": [
+        "CSS",
+        "HTML",
+        "JAVA"
+      ],
+      "user_img": "1692210998533.jpg",
+      "id": 2
+    },
+    {
+      "email": "jessica@email.com",
+      "password": "$2a$10$5wdy55DnqvdZk8iCeSYC4.L0IC1cqy54WWb1U//8o2ktsjTSY7HLq",
+      "nome": "Jéssica Franzon",
+      "cep": "65092-055",
+      "logradouro": "Rua São José",
+      "numero": "200",
+      "bairro": "Itapera",
+      "uf": "MA",
+      "cidade": "São Luís",
+      "hardSkills": [
+        "CSS",
+        "HTML",
+        "JAVA"
+      ],
+      "user_img": "1692211055667.png",
+      "id": 3
+    }
+    
+    ],
 
     "servicos": [
         {
